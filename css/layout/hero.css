@@ -1,0 +1,36 @@
+.hero{
+    margin-left: 300px;
+    margin-top: -6500px;
+    padding: 300px;
+    background-image: url(/pages/fon.jfif) 
+}
+.hero-page h1{
+    font-family: 'Great,Vibes' , cursive;
+    color: white;
+    padding-right: 500px;
+    font-size: 60px;
+}
+.hero2 h1{
+    padding-top: 20px;
+    padding-left: 320px;
+    color: rgb(2, 2, 48);;
+}
+
+.hero2-description{
+    padding-top: 50px;
+    padding-left: 320px;
+    color: rgb(2, 2, 48);
+    font-size: 20px;
+    letter-spacing: 1,5px;
+}
+.hero2-image{
+    padding-top: 60px;
+    padding-left: 350px;
+}
+.hero2-content{
+    display: flex;
+    justify-content: start;
+}
+.hero2-page{
+    margin-right: 60px;
+}
